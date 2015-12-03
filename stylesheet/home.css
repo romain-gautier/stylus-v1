@@ -1,0 +1,39 @@
+@import url("banner.css");
+@import url("footer.css");
+
+body
+{
+  font-family: "Open Sans";
+}
+
+.bg-blue
+{
+  background-color: #469AE0;
+  padding: 150px 10px;
+}
+
+.bg-blue p
+{
+  color: white;
+  font-weight: lighter;
+}
+
+.bg-blue h2
+{
+  color: white;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.bg-blue img
+{
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  width: 100px;
+}
+
+.newsletter
+{
+  padding: 100px 0;
+}
