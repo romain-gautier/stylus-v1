@@ -16,13 +16,14 @@ body
 {
   color: white;
   font-weight: lighter;
+  font-size: 15px;
 }
 
 .bg-blue h2
 {
   color: white;
   font-weight: normal;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .bg-blue img
